@@ -60,14 +60,6 @@ Engenheiro **full stack** com foco em arquitetura e entrega de produto:
 
 </div>
 
-### 📈 Atividade
-
-<div align="center">
-
-<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=josuelns&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
 ---
 
 <div align="center">
