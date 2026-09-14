@@ -52,18 +52,19 @@ Engenheiro **full stack** com foco em arquitetura e entrega de produto:
 
 <div align="center">
 
-<img height="170" alt="GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=josuelns&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
-<img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=josuelns&theme=tokyonight&hide_border=true" />
+<img height="180" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josuelns&theme=tokyonight" />
+<img height="180" alt="GitHub stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josuelns&theme=tokyonight" />
 <br />
-<img height="170" alt="Top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josuelns&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josuelns&theme=tokyonight" />
+<img height="180" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josuelns&theme=tokyonight" />
 
 </div>
 
-### 🐍 Contribuições
+### 📈 Atividade
 
 <div align="center">
 
-<img src="./assets/snake.svg" alt="Contribution snake" width="100%" />
+<img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=josuelns&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
