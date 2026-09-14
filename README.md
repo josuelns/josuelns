@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Josu%C3%A9+Navarro;Full+Stack+Engineer;React+%C2%B7+Spring+Boot+%C2%B7+Node.js" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Josu%C3%A9+Navarro;Full+Stack+Engineer;React+%C2%B7+Spring+Boot+%C2%B7+Node.js" alt="Typing intro" />
 
 <br />
 
@@ -39,6 +39,12 @@ Engenheiro **full stack** com foco em arquitetura e entrega de produto:
 | 🅿️ | [**cloudParking-Spring**](https://github.com/josuelns/cloudParking-Spring) | Estacionamento com grid, tarifas e cache · Spring Boot |
 | ✈️ | [**b2b-miles-booking**](https://github.com/josuelns/b2b-miles-booking) | Emissão B2B com concorrência e timeouts · Node.js |
 | 🔐 | [**auth-api-prisma**](https://github.com/josuelns/auth-api-prisma) | API JWT documentada · Prisma · Swagger |
+| 🏗️ | [**clean-arch-frontend-challenge**](https://github.com/josuelns/clean-arch-frontend-challenge) | React + Clean Architecture · Redux Saga · Jest/Cypress |
+| 🛒 | [**starsoft-frontend-challenge**](https://github.com/josuelns/starsoft-frontend-challenge) | Marketplace NFT · Next.js · Redux · Framer Motion |
+| 🕷️ | [**legacy-portal-crawler**](https://github.com/josuelns/legacy-portal-crawler) | Crawler assíncrono de portal legado · Node.js REST API |
+| 📄 | [**guapi-papeis-api**](https://github.com/josuelns/guapi-papeis-api) | API Laravel 9 · Sanctum · painel admin |
+| 📱 | [**guapi-papeis-mobile**](https://github.com/josuelns/guapi-papeis-mobile) | App React Native · Redux Saga · NativeWind |
+| ✅ | [**sigcorp-frontend-challenge**](https://github.com/josuelns/sigcorp-frontend-challenge) | SPA React · Recoil · MUI · Jest · Cypress · CI |
 
 📂 **Portfólio completo:** [josuelns.github.io](https://josuelns.github.io/)
 
@@ -46,10 +52,10 @@ Engenheiro **full stack** com foco em arquitetura e entrega de produto:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=josuelns&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Stats" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=josuelns&theme=tokyonight&hide_border=true" alt="Streak" />
+<img height="170" alt="GitHub stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=josuelns&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" />
+<img height="170" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=josuelns&theme=tokyonight&hide_border=true" />
 <br />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuelns&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" />
+<img height="170" alt="Top languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=josuelns&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -57,7 +63,7 @@ Engenheiro **full stack** com foco em arquitetura e entrega de produto:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/josuelns/josuelns/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+<img src="./assets/snake.svg" alt="Contribution snake" width="100%" />
 
 </div>
 
