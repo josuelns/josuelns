@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2563eb,100:38bdf8&height=140&section=header&text=Josu%C3%A9%20Navarro&fontSize=46&fontColor=ffffff&animation=twinkling" alt="Josué Navarro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Josu%C3%A9+Navarro;Full+Stack+Engineer;React+%C2%B7+Spring+Boot+%C2%B7+Node.js" alt="Typing intro" />
 
-**Full Stack Engineer** · TypeScript · React · Spring Boot · Node.js
+<br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-josuelns.github.io-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://josuelns.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-josue--leandro--navarro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-leandro-navarro)
@@ -12,40 +12,52 @@
 
 ---
 
-### Sobre
+### 👨‍💻 Sobre
 
-Engenheiro full stack com foco em **arquitetura e entrega de produto**: SPAs/SSR com React e Next.js, APIs REST em Node.js/NestJS e Spring Boot, persistência PostgreSQL/MySQL, cache Redis, autenticação OIDC/JWT e deploy containerizado.
+Engenheiro **full stack** com foco em arquitetura e entrega de produto:
 
-📍 Brasil · São Paulo (litoral) · aberto a oportunidades remotas
+- SPAs/SSR com **React** e **Next.js**
+- APIs REST em **Node.js/NestJS** e **Spring Boot**
+- **PostgreSQL/MySQL**, cache **Redis**, auth **OIDC/JWT**
+- Deploy **Docker** e integração contínua
 
-### Stack principal
+📍 Brasil · aberto a oportunidades remotas
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### Projetos em destaque
-
-| Projeto | Descrição | Stack |
-| --- | --- | --- |
-| [**spring-budgeting-ai**](https://github.com/josuelns/spring-budgeting-ai) | Assistente financeiro por voz com tool calling e auth | Spring AI · Keycloak · Redis |
-| [**cloudParking-Spring**](https://github.com/josuelns/cloudParking-Spring) | Estacionamento com grid de vagas, tarifas e cache | Spring Boot · MySQL · Redis |
-| [**b2b-miles-booking**](https://github.com/josuelns/b2b-miles-booking) | Emissão B2B com concorrência e timeouts de provedores | Node.js · PostgreSQL · Docker |
-| [**auth-api-prisma**](https://github.com/josuelns/auth-api-prisma) | API de autenticação documentada com JWT | Prisma · Swagger · PostgreSQL |
-
-### GitHub
+### 🛠️ Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=josuelns&show_icons=true&theme=tokyonight&hide_border=true&count_private=false&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuelns&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,java,spring,postgres,mysql,redis,docker,git,github&perline=7" alt="Tech stack" />
+
+</div>
+
+### 🚀 Projetos em destaque
+
+| | Projeto | Descrição |
+|:---:|:---|:---|
+| 🤖 | [**spring-budgeting-ai**](https://github.com/josuelns/spring-budgeting-ai) | Assistente financeiro por voz · Spring AI · Keycloak · Redis |
+| 🅿️ | [**cloudParking-Spring**](https://github.com/josuelns/cloudParking-Spring) | Estacionamento com grid, tarifas e cache · Spring Boot |
+| ✈️ | [**b2b-miles-booking**](https://github.com/josuelns/b2b-miles-booking) | Emissão B2B com concorrência e timeouts · Node.js |
+| 🔐 | [**auth-api-prisma**](https://github.com/josuelns/auth-api-prisma) | API JWT documentada · Prisma · Swagger |
+
+📂 **Portfólio completo:** [josuelns.github.io](https://josuelns.github.io/)
+
+### 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=josuelns&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Stats" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=josuelns&theme=tokyonight&hide_border=true" alt="Streak" />
+<br />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuelns&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Languages" />
+
+</div>
+
+### 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/josuelns/josuelns/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
 
 </div>
 
@@ -53,8 +65,6 @@ Engenheiro full stack com foco em **arquitetura e entrega de produto**: SPAs/SSR
 
 <div align="center">
 
-*Portfólio completo com cases, experiência e CV:* **[josuelns.github.io](https://josuelns.github.io/)**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:2563eb,100:38bdf8&height=80&section=footer" alt="footer" />
+<sub>Perfil customizado via repositório especial</sub> [`josuelns/josuelns`](https://github.com/josuelns/josuelns)
 
 </div>
