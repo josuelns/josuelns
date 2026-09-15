@@ -36,7 +36,7 @@ Engenheiro **full stack** com foco em arquitetura e entrega de produto:
 | | Projeto | Descrição |
 |:---:|:---|:---|
 | 🤖 | [**spring-budgeting-ai**](https://github.com/josuelns/spring-budgeting-ai) | Assistente financeiro por voz · Spring AI · Keycloak · Redis |
-| 🅿️ | [**cloudParking-Spring**](https://github.com/josuelns/cloudParking-Spring) | Estacionamento com grid, tarifas e cache · Spring Boot |
+| 🅿️ | [**cloud-parking-spring**](https://github.com/josuelns/cloud-parking-spring) | Estacionamento com grid, tarifas e cache · Spring Boot |
 | ✈️ | [**b2b-miles-booking**](https://github.com/josuelns/b2b-miles-booking) | Emissão B2B com concorrência e timeouts · Node.js |
 | 🔐 | [**auth-api-prisma**](https://github.com/josuelns/auth-api-prisma) | API JWT documentada · Prisma · Swagger |
 | 🏗️ | [**clean-arch-frontend-challenge**](https://github.com/josuelns/clean-arch-frontend-challenge) | React + Clean Architecture · Redux Saga · Jest/Cypress |
