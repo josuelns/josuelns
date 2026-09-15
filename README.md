@@ -1,23 +1,5 @@
 # josuelns
 
-> Destacar stack, projetos e contato diretamente no perfil GitHub.
-
-## Problema
-
-Destacar stack, projetos e contato diretamente no perfil GitHub.
-
-## Solução
-
-Profile README com badges, projetos em destaque e cards de estatísticas.
-
-## Stack
-
-- Markdown
-- GitHub Profile
-
----
-
-<<<<<<< HEAD
 ### 👨‍💻 Sobre
 
 Engenheiro **full stack** com foco em arquitetura e entrega de produto:
@@ -73,6 +55,3 @@ Engenheiro **full stack** com foco em arquitetura e entrega de produto:
 <sub>Perfil customizado via repositório especial</sub> [`josuelns/josuelns`](https://github.com/josuelns/josuelns)
 
 </div>
-=======
-[Ver no portfólio](https://josuelns.github.io/) · [josuelns](https://github.com/josuelns)
->>>>>>> 0223360f516bb05d3ce8e3230b1e6674996188e9
