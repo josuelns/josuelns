@@ -1,17 +1,23 @@
-<div align="center">
+# josuelns
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Josu%C3%A9+Navarro;Full+Stack+Engineer;React+%C2%B7+Spring+Boot+%C2%B7+Node.js" alt="Typing intro" />
+> Destacar stack, projetos e contato diretamente no perfil GitHub.
 
-<br />
+## Problema
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-josuelns.github.io-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://josuelns.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-josue--leandro--navarro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-leandro-navarro)
-[![Email](https://img.shields.io/badge/Email-josuenavarro2000%40hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josuenavarro2000@hotmail.com)
+Destacar stack, projetos e contato diretamente no perfil GitHub.
 
-</div>
+## Solução
+
+Profile README com badges, projetos em destaque e cards de estatísticas.
+
+## Stack
+
+- Markdown
+- GitHub Profile
 
 ---
 
+<<<<<<< HEAD
 ### 👨‍💻 Sobre
 
 Engenheiro **full stack** com foco em arquitetura e entrega de produto:
@@ -67,3 +73,6 @@ Engenheiro **full stack** com foco em arquitetura e entrega de produto:
 <sub>Perfil customizado via repositório especial</sub> [`josuelns/josuelns`](https://github.com/josuelns/josuelns)
 
 </div>
+=======
+[Ver no portfólio](https://josuelns.github.io/) · [josuelns](https://github.com/josuelns)
+>>>>>>> 0223360f516bb05d3ce8e3230b1e6674996188e9
